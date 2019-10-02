@@ -5,7 +5,7 @@ fg_1b(x) = x^2 + 2*x + 1
 fg_1b(5)
 
 function fg_2b(x)
-    return x^2, x/2
+    return x^2, x/2,x+2
 end
 
 fg_2b(5)
